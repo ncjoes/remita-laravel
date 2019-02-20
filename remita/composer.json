@@ -1,5 +1,5 @@
 {
-    "name": "femonofsky/remita",
+    "name": "NCJoes/remita",
     "description": "A PHP wrapper that help you with Remita Payment Gateway Integration",
     "type": "library",
     "keywords": ["laravel","Remita","Payment","Gateway","Integration"],
@@ -16,7 +16,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Femonofsky\\Remita\\": "src/"
+            "NCJoes\\Remita\\": "src/"
         }
     }
 }

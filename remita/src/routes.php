@@ -1,6 +1,6 @@
 <?php
 
-Route::group(['namespace' => 'Femonofsky\Remita\Controllers', 'prefix'=>'remita'], function() {
+Route::group(['namespace' => 'NCJoes\Remita\Controllers', 'prefix' => 'remita'], function () {
     // Your route goes here
     Route::get('/', 'RemitaController@index');
     Route::get('initiateMandate', 'RemitaController@testMandate');

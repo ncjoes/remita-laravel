@@ -1,11 +1,22 @@
 {
-    "name": "femonofsky/remita",
+    "name": "ncjoes/remita-laravel",
     "description": "A PHP wrapper that help you with Remita Payment Gateway Integration",
     "type": "library",
-    "keywords": ["laravel","Remita","Payment","Gateway","Integration"],
-    "homepage": "https://github.com/femonofsky/remita-laravel",
+    "keywords": [
+        "Laravel",
+        "Remita",
+        "Payment",
+        "Gateway",
+        "Integration"
+    ],
+    "homepage": "https://github.com/ncjoes/remita-laravel",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Chukwuemeka Nwobodo",
+            "email": "jc.nwobodo@gmail.com",
+            "role": "Maintainer"
+        },
         {
             "name": "Akinnurun Oluwafemi",
             "email": "femmy4lov@gmail.com",
@@ -16,7 +27,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Femonofsky\\Remita\\": "src/"
+            "NCJoes\\Remita\\": "src/"
         }
     },
     "extra": {

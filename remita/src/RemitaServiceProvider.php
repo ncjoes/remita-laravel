@@ -1,6 +1,6 @@
 <?php
 
-namespace Femonofsky\Remita;
+namespace NCJoes\Remita;
 
 use Illuminate\Support\ServiceProvider;
 

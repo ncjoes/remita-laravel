@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by IntelliJ IDEA.
- * User: Femonofsky
+ * User: NCJoes
  * Date: 9/3/17
  * Time: 12:58 AM
  */
 
-namespace Femonofsky\Remita\Helper;
+namespace NCJoes\Remita\Helper;
 
 
 class HelperClass
